@@ -6,4 +6,7 @@ die aber in verschieden Stilen programmiert sind. Einmal Objektorientiert und ei
 
 Dies die Objektorientierte Variante.
 
+Geschrieben in Python
 
+Um das Programm im Browser abzuspielen:
+https://replit.com/@Alol0/coffee-machine-script-oop#main.py
