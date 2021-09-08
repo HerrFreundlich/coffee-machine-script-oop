@@ -1,4 +1,3 @@
-
 from items import CoffeeMachineItemList
 
 item_list = CoffeeMachineItemList()

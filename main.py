@@ -1,4 +1,3 @@
-
 from money_handler import MoneyHandler
 from coffee_maker import CoffeeMaker
 
@@ -10,7 +9,9 @@ while True:
                        "Press:\n"
                        "1 for Cappuccino\n"
                        "2 for Latte Macchiato\n"
-                       "3 for Espresso\n\n"
+                       "3 for Espresso\n"
+                       "type 'report' for resource report\n"
+                       "type 'off' to end program\n\n"
                        "Your choice: ")
 
     if user_input == "off":
